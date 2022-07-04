@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Team Admin » Wilcox Robotics Team</title>
+	<atom:link href="/author/anakinvskywalker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Team 8872: Robopocalypse</description>
+	<lastBuildDate>Mon, 04 Jul 2022 00:02:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/wilcox-robotics-team.com/wp-content/uploads/2018/08/cropped-meteor_png.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Team Admin » Wilcox Robotics Team</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">102285136</site>	<item>
+		<title>3D Graphical Design Mentoring</title>
+		<link>/3d-mentoring/</link>
+		
+		<dc:creator><![CDATA[Team Admin]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 02:08:26 +0000</pubDate>
+				<category><![CDATA[Information]]></category>
+		<category><![CDATA[Outreach]]></category>
+		<guid isPermaLink="false">/?p=1799</guid>
+
+					<description><![CDATA[<p>Hi! Our Wilcox Robotics Club is hosting beginner Blender mentoring sessions through the Santa Clara Library and would love if you could join us. These sessions will be hosted online&#8230;</p>
+<p>The post <a href="/3d-mentoring/">3D Graphical Design Mentoring</a> first appeared on <a href="/">Wilcox Robotics Team</a>.</p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1799</post-id>	</item>
+		<item>
+		<title>We&#8217;re Back</title>
+		<link>/we-are-back/</link>
+		
+		<dc:creator><![CDATA[Team Admin]]></dc:creator>
+		<pubDate>Sat, 25 Jun 2022 22:11:16 +0000</pubDate>
+				<category><![CDATA[Information]]></category>
+		<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">/?p=1774</guid>
+
+					<description><![CDATA[<p>This is the new Wilcox Robotics. We are wiping the slate clean and finally redoing our website after 7 years. Remember to come back and see what happens next!</p>
+<p>The post <a href="/we-are-back/">We’re Back</a> first appeared on <a href="/">Wilcox Robotics Team</a>.</p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1774</post-id>	</item>
+	</channel>
+</rss>
